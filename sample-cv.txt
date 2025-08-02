@@ -1,0 +1,63 @@
+John Smith
+Senior Software Engineer
+
+Email: john.smith@email.com
+Phone: +1 (555) 123-4567
+Address: San Francisco, CA, USA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 8+ years of expertise in full-stack development, system architecture, and team leadership. Passionate about building scalable applications and mentoring junior developers.
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc.
+June 2020 - Present
+• Led development of microservices architecture serving 1M+ users
+• Mentored 5 junior developers and established coding standards
+• Improved system performance by 40% through optimization initiatives
+• Collaborated with product teams to deliver features on schedule
+
+Software Engineer | StartupXYZ
+January 2018 - May 2020
+• Developed RESTful APIs and responsive web applications
+• Implemented automated testing resulting in 95% code coverage
+• Participated in agile development processes and code reviews
+• Built real-time chat application using WebSocket technology
+
+Junior Developer | WebSolutions Ltd.
+August 2016 - December 2017
+• Created dynamic websites using modern JavaScript frameworks
+• Maintained legacy codebase and implemented bug fixes
+• Collaborated with design team to implement user interfaces
+• Participated in daily standups and sprint planning
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Stanford University | 2016
+• GPA: 3.8/4.0
+• Relevant coursework: Data Structures, Algorithms, Database Systems
+• Senior project: Machine learning recommendation system
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Python, Java, SQL, MongoDB, PostgreSQL, AWS, Docker, Kubernetes, Git, Agile, REST APIs, GraphQL, HTML, CSS, SASS, Redux, Express.js, Spring Boot
+
+PROJECTS
+
+E-commerce Platform
+2021
+• Built full-stack e-commerce application with React and Node.js
+• Implemented payment processing with Stripe integration
+• Deployed on AWS with auto-scaling capabilities
+
+Personal Portfolio Website
+2020
+• Developed responsive portfolio website showcasing projects
+• Optimized for SEO and accessibility
+• Achieved 98% Lighthouse performance score
+
+Task Management App
+2019
+• Created collaborative task management application
+• Real-time updates using Socket.io
+• User authentication and authorization system

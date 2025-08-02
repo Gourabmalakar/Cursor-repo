@@ -1,0 +1,19 @@
+{
+  "name": "cv-to-webpage-builder",
+  "version": "1.0.0",
+  "description": "A web application to create personalized webpages from CV uploads",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-deps": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "keywords": ["cv", "resume", "webpage", "builder", "portfolio"],
+  "author": "CV Webpage Builder",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
